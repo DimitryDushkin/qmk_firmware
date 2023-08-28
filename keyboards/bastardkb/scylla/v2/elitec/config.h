@@ -18,4 +18,7 @@
 #pragma once
 
 /* Handedness. */
-#define MASTER_RIGHT
+#define MASTER_LEFT
+
+// #define EE_HANDS
+
